@@ -1,0 +1,53 @@
+body {
+    width: 2500px;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    background-color: green;
+    height: 80px;
+}
+
+div {
+    font-family: Helvetica;
+    color: red;
+    font-size: 32px;
+    padding: 5px;
+}
+
+#navbar {
+    display: flex; 
+    justify-content: space-around;
+}
+
+#logo {
+    width: 60px;
+}
+
+.items:hover {
+    background-color: grey;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    width: 20%;
+}
+#life_story {
+    border: 10px;
+    padding: 10px;
+    
+}
+
+
+#Portrait {
+    margin-left: 1990px;
+    width: 420px;
+    height: 580px;
+}
+ 
